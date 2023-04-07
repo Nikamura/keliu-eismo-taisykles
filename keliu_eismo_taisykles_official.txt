@@ -50,7 +50,7 @@ Nr. 744 [https://www.e-tar.lt/portal/legalAct.html?documentId=a82547501a1a11ec93
 
 
 
-3.21. Dviračių gatvė – kelias, kurio pradžia pažymėta kelio ženklu „Dviračių gatvė“, o pabaiga – „Dviračių gatvės pabaiga“.
+3.2<sup>1</sup>. Dviračių gatvė – kelias, kurio pradžia pažymėta kelio ženklu „Dviračių gatvė“, o pabaiga – „Dviračių gatvės pabaiga“.
 
 Papildyta papunkčiu:
 
@@ -94,7 +94,7 @@ Nr. 989 [https://www.e-tar.lt/portal/legalAct.html?documentId=178d4200cacd11e8bf
 
 
 
-3.91. Lydintis asmuo – ne jaunesnis kaip 18 metų asmuo, lydintis eismo dalyvį arba jų grupę.
+3.9<sup>1</sup>. Lydintis asmuo – ne jaunesnis kaip 18 metų asmuo, lydintis eismo dalyvį arba jų grupę.
 
 Papildyta papunkčiu:
 
@@ -962,21 +962,21 @@ Nr. 989 [https://www.e-tar.lt/portal/legalAct.html?documentId=178d4200cacd11e8bf
 
 
 
-801. Šviesoforų, skirtų maršrutiniam transportui, balti signalai juodame fone turi šias reikšmes:
+80<sup>1</sup>. Šviesoforų, skirtų maršrutiniam transportui, balti signalai juodame fone turi šias reikšmes:
 
-801.1. S formos signalas draudžia maršrutinio transporto eismą;
-
-
-
-801.2. horizontalaus brūkšnio formos signalas draudžia maršrutinio transporto eismą (išskyrus Taisyklių 29 ir 166 punktuose nurodytus atvejus) ir informuoja, kad šviesoforo signalai pasikeis;
+80<sup>1</sup>.1. S formos signalas draudžia maršrutinio transporto eismą;
 
 
 
-801.3. kartu įjungti S formos ir horizontalaus brūkšnio formos signalai draudžia maršrutinio transporto eismą ir informuoja, kad netrukus bus įjungtas rodyklės (rodyklių) formos signalas;
+80<sup>1</sup>.2. horizontalaus brūkšnio formos signalas draudžia maršrutinio transporto eismą (išskyrus Taisyklių 29 ir 166 punktuose nurodytus atvejus) ir informuoja, kad šviesoforo signalai pasikeis;
 
 
 
-801.4. rodyklės (rodyklių) formos signalas leidžia maršrutinio transporto eismą nurodyta (nurodytomis) kryptimi (kryptimis).
+80<sup>1</sup>.3. kartu įjungti S formos ir horizontalaus brūkšnio formos signalai draudžia maršrutinio transporto eismą ir informuoja, kad netrukus bus įjungtas rodyklės (rodyklių) formos signalas;
+
+
+
+80<sup>1</sup>.4. rodyklės (rodyklių) formos signalas leidžia maršrutinio transporto eismą nurodyta (nurodytomis) kryptimi (kryptimis).
 
 
 
@@ -1731,7 +1731,7 @@ Nr. 744 [https://www.e-tar.lt/portal/legalAct.html?documentId=a82547501a1a11ec93
 
 
 
-1531. Elektromobilio arba grynojo elektromobilio (toliau – elektromobilis), kurio įkrovimas baigtas, vairuotojas turi nedelsdamas patraukti transporto priemonę iš elektromobilių įkrovimo vietos, jeigu kelio ženklas „Stovėjimo ribotą laiką vieta“ nenurodo kitaip.
+153<sup>1</sup>. Elektromobilio arba grynojo elektromobilio (toliau – elektromobilis), kurio įkrovimas baigtas, vairuotojas turi nedelsdamas patraukti transporto priemonę iš elektromobilių įkrovimo vietos, jeigu kelio ženklas „Stovėjimo ribotą laiką vieta“ nenurodo kitaip.
 
 Papildyta punktu:
 
@@ -1797,7 +1797,7 @@ Nr. 744 [https://www.e-tar.lt/portal/legalAct.html?documentId=a82547501a1a11ec93
 
 
 
-163. Važiuodamas kryptimi, kurią rodo rodyklė, įjungta papildomoje šviesoforo sekcijoje kartu su geltonu arba raudonu signalu, vairuotojas privalo duoti kelią iš kitų krypčių pagal leidžiamąjį šviesoforo signalą judantiems eismo dalyviams, išskyrus Taisyklių 1631 punkte nurodytą atvejį.
+163. Važiuodamas kryptimi, kurią rodo rodyklė, įjungta papildomoje šviesoforo sekcijoje kartu su geltonu arba raudonu signalu, vairuotojas privalo duoti kelią iš kitų krypčių pagal leidžiamąjį šviesoforo signalą judantiems eismo dalyviams, išskyrus Taisyklių 163<sup>1 </sup>punkte nurodytą atvejį.
 
 Punkto pakeitimai:
 
@@ -1807,7 +1807,7 @@ Nr. 744 [https://www.e-tar.lt/portal/legalAct.html?documentId=a82547501a1a11ec93
 
 
 
-1631. Apsisukdamas sankryžoje, kurioje eismas reguliuojamas šviesoforu, vairuotojas privalo duoti kelią iš kitų krypčių pagal leidžiamąjį šviesoforo signalą judantiems eismo dalyviams.
+163<sup>1</sup>. Apsisukdamas sankryžoje, kurioje eismas reguliuojamas šviesoforu, vairuotojas privalo duoti kelią iš kitų krypčių pagal leidžiamąjį šviesoforo signalą judantiems eismo dalyviams.
 
 Papildyta punktu:
 
@@ -2027,27 +2027,27 @@ Nr. 744 [https://www.e-tar.lt/portal/legalAct.html?documentId=a82547501a1a11ec93
 
 
 
-XXI1 SKYRIUS
+XXI<sup>1</sup> SKYRIUS
 
 EISMAS DVIRAČIŲ GATVĖJE
 
  
 
-1781. Dviračių gatvė skirta ne motorinių ir motorinių transporto priemonių (mišriam) eismui.
+178<sup>1</sup>. Dviračių gatvė skirta ne motorinių ir motorinių transporto priemonių (mišriam) eismui.
 
 
 
-1782. Dviračių gatvėje dviračio vairuotojui netaikomas Taisyklių 57 punkte nustatytas reikalavimas važiuoti viena eile ir kuo arčiau eismo juostos dešiniojo krašto.
+178<sup>2</sup>. Dviračių gatvėje dviračio vairuotojui netaikomas Taisyklių 57 punkte nustatytas reikalavimas važiuoti viena eile ir kuo arčiau eismo juostos dešiniojo krašto.
 
 
 
-1783. Dviračių gatvėje draudžiama:
+178<sup>3</sup>. Dviračių gatvėje draudžiama:
 
-1783.1. važiuoti didesniu kaip 30 km/h greičiu;
+178<sup>3</sup>.1. važiuoti didesniu kaip 30 km/h greičiu;
 
 
 
-1783.2. lenkti.
+178<sup>3</sup>.2. lenkti.
 
 
 
@@ -2091,29 +2091,29 @@ Nr. 744 [https://www.e-tar.lt/portal/legalAct.html?documentId=a82547501a1a11ec93
 
 
 
-1811. Kelyje, pažymėtame kelio ženklu „Eismo juosta maršrutiniam transportui“ ir simboliu „A+“, ne maršrutinėms transporto priemonėms važiuoti šia eismo juosta draudžiama, išskyrus:
+181<sup>1</sup>. Kelyje, pažymėtame kelio ženklu „Eismo juosta maršrutiniam transportui“ ir simboliu „A+“, ne maršrutinėms transporto priemonėms važiuoti šia eismo juosta draudžiama, išskyrus:
 
-1811.1. dviračius, mopedus ir lengvuosius keturračius;
-
-
-
-1811.2. automobilius, pažymėtus skiriamuoju ženklu „Neįgalusis“ arba neįgalių asmenų automobilių statymo kortele, kuriuose važiuoja neįgalieji į (iš) švietimo įstaigą (-os) ar į (iš) neįgaliųjų dienos užimtumo centrą (-o), jeigu važiavimo maršrutas suderintas su kelio savininku jo nustatyta tvarka;
+181<sup>1</sup>.1. dviračius, mopedus ir lengvuosius keturračius;
 
 
 
-1811.3. lengvuosius automobilius taksi, jeigu eismo juosta pažymėta užrašu „TAKSI“;
+181<sup>1</sup>.2. automobilius, pažymėtus skiriamuoju ženklu „Neįgalusis“ arba neįgalių asmenų automobilių statymo kortele, kuriuose važiuoja neįgalieji į (iš) švietimo įstaigą (-os) ar į (iš) neįgaliųjų dienos užimtumo centrą (-o), jeigu važiavimo maršrutas suderintas su kelio savininku jo nustatyta tvarka;
 
 
 
-1811.4. automobilius, kuriuose važiuoja 4 ir daugiau eismo dalyvių, jeigu eismo juosta pažymėta simboliu 4+;
+181<sup>1</sup>.3. lengvuosius automobilius taksi, jeigu eismo juosta pažymėta užrašu „TAKSI“;
 
 
 
-1811.5. elektromobilius, jeigu eismo juosta pažymėta elektromobilio simboliu;
+181<sup>1</sup>.4. automobilius, kuriuose važiuoja 4 ir daugiau eismo dalyvių, jeigu eismo juosta pažymėta simboliu 4+;
 
 
 
-1811.6. motociklus, jeigu eismo juosta pažymėta motociklo simboliu.
+181<sup>1</sup>.5. elektromobilius, jeigu eismo juosta pažymėta elektromobilio simboliu;
+
+
+
+181<sup>1</sup>.6. motociklus, jeigu eismo juosta pažymėta motociklo simboliu.
 
 
 
@@ -2179,7 +2179,7 @@ SPECIALIŲJŲ TRANSPORTO PRIEMONIŲ EISMO YPATUMAI
 
  
 
-186. Specialiųjų transporto priemonių vairuotojai, turintys leidimus naudoti mėlynus ir raudonus švyturėlius ir specialiuosius garso signalus, gali naudotis įjungtais mėlynais ir raudonais (arba tik mėlynais) švyturėliais ir specialiaisiais garso signalais tik tuo atveju, kai tai būtina gelbėjant žmogaus gyvybę, sveikatą ar turtą, užtikrinant viešąją tvarką ir eismo saugumą, sulaikant įtariamus padariusius teisės pažeidimą asmenis, eskortuojant ir lydint Lietuvos Respublikos vadovybės apsaugos įstatyme nurodytus saugomus asmenis. Specialiųjų transporto priemonių vairuotojai, važiuodami kelyje su įjungtais mėlynais ir raudonais (arba tik mėlynais) švyturėliais (kurie turi būti matomi 360º kampu) ir specialiaisiais garso signalais, gali nepaisyti Taisyklių V, X, XIII, XIV, XV, XVI, XVII, XVIII, XIX, XXI, XXI1, XXII skyrių ir 1–3 priedų reikalavimų ir pasinaudoti pirmenybe tik tuo atveju, jeigu nepakenks eismo saugumui, ir tik tada, kai įsitikina, kad jiems duodamas kelias. Šia teise taip pat naudojasi transporto priemonių, kurias lydi specialiosios transporto priemonės, vairuotojai.
+186. Specialiųjų transporto priemonių vairuotojai, turintys leidimus naudoti mėlynus ir raudonus švyturėlius ir specialiuosius garso signalus, gali naudotis įjungtais mėlynais ir raudonais (arba tik mėlynais) švyturėliais ir specialiaisiais garso signalais tik tuo atveju, kai tai būtina gelbėjant žmogaus gyvybę, sveikatą ar turtą, užtikrinant viešąją tvarką ir eismo saugumą, sulaikant įtariamus padariusius teisės pažeidimą asmenis, eskortuojant ir lydint Lietuvos Respublikos vadovybės apsaugos įstatyme nurodytus saugomus asmenis. Specialiųjų transporto priemonių vairuotojai, važiuodami kelyje su įjungtais mėlynais ir raudonais (arba tik mėlynais) švyturėliais (kurie turi būti matomi 360º kampu) ir specialiaisiais garso signalais, gali nepaisyti Taisyklių V, X, XIII, XIV, XV, XVI, XVII, XVIII, XIX, XXI, XXI<sup>1</sup>, XXII skyrių ir 1–3 priedų reikalavimų ir pasinaudoti pirmenybe tik tuo atveju, jeigu nepakenks eismo saugumui, ir tik tada, kai įsitikina, kad jiems duodamas kelias. Šia teise taip pat naudojasi transporto priemonių, kurias lydi specialiosios transporto priemonės, vairuotojai.
 
 Punkto pakeitimai:
 
