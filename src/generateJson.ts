@@ -25,7 +25,7 @@ export async function generateJson(rules: string): Promise<any> {
       } else {
         const split_first = line.split(" ")[0]!;
         const rule_match = split_first?.trim()?.match(/([0-9]+(\.[0-9]+)?)/);
-        if (rule_match && !line.includes("Neteko galios")) {
+        if (rule_match) {
           skyriai[skyrius!]!.push(line);
         }
       }

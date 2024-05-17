@@ -12,7 +12,7 @@ export async function fetchLiveOrCached(): Promise<string> {
     }
   }
 
-  const body = await fetch("https://www.e-tar.lt/rs/actualedition/TAR.BBE7D61A0416/kbsMIblEgh/");
+  const body = await fetch("https://www.e-tar.lt/rs/actualedition/TAR.BBE7D61A0416/wxGGBkugfe/");
 
   const html = await body.text();
 
